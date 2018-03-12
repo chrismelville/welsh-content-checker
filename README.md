@@ -1,2 +1,2 @@
 # welsh-content-checker
-Checks the Welsh content against the English content to see if there are any missing/incomplete
+Ducky and Foxy's Bilingual Content Error Detection Service | Gwasanaeth Canfod Gwall Cynnwys Dwyieithog Ducky a Foxy yn
