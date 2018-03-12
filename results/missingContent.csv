@@ -1,0 +1,632 @@
+Key|English Content|Welsh Content
+residentialPropertyRTTAlreadyChargedHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Tax on gains already charged</title><meta name="help-icon-alt" content="Help about: Tax on gains already charged" /></head><body><p>Please enter the total amount of tax you paid on the Real Time Transaction Return(s) shown above</p></body></html>|null
+sa105_furnishedHolidayLettings_taxableProfitForYear_MSG021|The amount entered for 'Loss brought forward used against this year&#8217;s profits' must be less than &pound;10,000,000,000. Please amend.|null
+countryList.118.LBN|Lebanon LBN|null
+sa105_furnishedHolidayLettings_taxableProfitForYear_MSG007|The amount entered for 'Loss brought forward used against this year&#8217;s profits' cannot be less than 0 (zero). Please amend.|null
+sa100_tailor_partnershipFourName_MSG316|This field cannot be blank. Please amend.|null
+november|November|null
+sa100_personalDetails_incomeTaxPayerStatus_MSG090|Please complete 'Taxpayer status'.|null
+countryList.89.GSY|Guernsey GSY|null
+sa108_quotedShares_lossesAgainstCurrentTaxYear_MSG017|The amount entered for 'Losses used against income' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+sa108_quotedShares_lossesAgainstCurrentTaxYear_MSG021|The amount entered for 'Losses used against income' must be less than &pound;10,000,000,000. Please amend.|null
+countryList.160.NOR|Norway NOR|null
+sa101_pensionSchemeTaxRef_MSG370|You cannot enter more than 10 characters for 'Pension scheme tax reference number'. Please amend.|null
+sa108_residentialProperty_making_claimsOrElections_MSG417|The figures you have entered indicate that a relief has been claimed but you have answered no to the question 'Are you making any claims or elections '. Please take time to check your entries are correct and supply a full computation with your return.|null
+countryList.72.FJI|Fiji FJI|null
+countryList.239.ZMB|Zambia ZMB|null
+sa108_quotedShares_lossesAgainstCurrentTaxYear_MSG006|The amount entered for 'Losses used against income' cannot be less than 0 (zero). Please amend.|null
+individualOrAgentOrPractitionerList||
+residentialPropertyLossesInTheYearHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Losses in the year</title><meta name="help-icon-alt" content="Help about: Losses in the year" /></head><body><p>Enter the total of any losses made on the disposals of interests in residential property (and any carried interest gains), after taking into account any relief, claims or elections.</p><p>Don't include any losses subject to non-resident Capital Gains Tax. Put these amounts in If you are chargeable to non-resident Capital Gains Tax (NRCGT) for the disposal of a UK residential property or properties during 2016 to 2017, put the total gain chargeable to NRCGT after losses, or loss</p></body></html>|null
+setPrintPreferencesRedirectUrl||
+registrationOptions||
+maritalStatusList.9.separated|Separated|null
+sa110_underpaidTax3_whyOutstandingDebtAmended_MSG377|You cannot complete 'Please tell us why this figure is different to the one we quoted...' as you have not selected 'No' for 'If this figure is not correct, select 'No' and you will be given a chance to amend it below'. Please amend.|null
+ascendingOrder|Ascending order|null
+TaxStatusHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Taxpayer residency status</title><meta name="help-icon-alt" content="Help about: Taxpayer residency status" /></head><body><p>This is the taxpayer residency status HMRC holds for you, it's based on where you live and refers to the same year as your tax return. If you think it's wrong, go to <a href="www.gov.uk/scotthshincometax">www.gov.uk/scotthshincometax</a> for guidance on how to change it.</p></body></html>|null
+countryList.104.ISR|Israel ISR|null
+countryList.219.TTO|Trinidad and Tobago TTO|null
+enablePrintPreferencesConfigurationImageUrl.4.online||
+cancelOverpaidTax|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>'Cancel' will allow you to continue working with this form.</p></body></html>|null
+sa100_charitableGiving_InvGiftedToNonUKCharities_MSG354|The amount for 'Value of qualifying investments gifted to non-UK charities in the above two boxes' is greater than zero, therefore the amount for this field must be less than or equal to 'Value of qualifying shares or securities gifted to charity' + 'Value of qualifying land and buildings gifted to charity'. Please amend.|null
+countryList.174.REU|Reunion REU|null
+pensTaxRelDue|<em>plus</em>	Additional tax relief due on pension payments|null
+countryList.220.TUN|Tunisia TUN|null
+countryList.142.MNG|Mongolia MNG|null
+countryList.127.MDG|Madagascar MDG|null
+countryList.199.ZAF|South Africa ZAF|null
+countryList.48.COM|Comoros COM|null
+sa108_summary_additionalLiability_MSG007|The amount entered for 'Additional liability in respect of non-resident or dual resident trusts' must be greater than 0 (zero) or blank. Please amend.|null
+sa105_lettingsLosses_lossForYear2_MSG007|The amount entered for 'Furnished holiday lettings loss for the year' cannot be less than 0 (zero). Please amend.|null
+MSG0712|ERROR: The EORI Trader Registration Number you have entered is in the wrong format. Please check.|null
+MSG0713|ERROR: Please enter your EORI Trader Registration Number.|null
+setPrintPreferencesRedirectUrl.2.online-dev|https://www-preview.tax.service.gov.uk/sa/print-preferences/$TOKEN?return_url=$RETURN_URL%3Ftp%3Dtrue&amp;lang=en|null
+countryList.110.KAZ|Kazakhstan KAZ|null
+sa108_summary_GainsFrom23June2010Qualifying_MSG007|The amount entered for 'Gains qualifying for Entrepreneurs&#8217; Relief - Gains on or after 23 June 2010' must be greater than 0 (zero) or blank. Please amend.|null
+enablePrintPreferencesConfigurationImageUrl.3.online-qa|https://www.qa.tax.service.gov.uk/sa/print-preferences/assets/images/tp.gif?lang=en|null
+sa108_summary_GainsFrom23June2010Qualifying_MSG017|The amount entered for 'Gains qualifying for Entrepreneurs&#8217; Relief - Gains on or after 23 June 2010' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+sa108_summary_GainsFrom23June2010Qualifying_MSG021|The amount entered for 'Gains qualifying for Entrepreneurs&#8217; Relief - Gains on or after 23 June 2010' must be less than &pound;10,000,000,000. Please amend.|null
+caClaimOrElectionMade|Claim or election made|null
+countryList.234.VAT|Vatican VAT|null
+formTurnedOff.digital|<p>Sorry, this form is currently unavailable. Please try again later.</p><p>Select 'Next' to return to GOV.UK. Additional contact details are available at HM Revenue &amp; Customs <a href="/information/helpdesk" class="new-window">Online Services Helpdesk</a>.</p>|null
+sa104f_class4Nic_niProfitAdjustment_MSG006|The amount entered for 'Adjustment to profits chargeable to Class 4 NICs' must be greater than 0 (zero) or blank. Please amend.|null
+assetTypeList||
+feedbackSurveyInfoEnd|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>directly.</p></body></html>|null
+countryList.124.LUX|Luxembourg LUX|null
+sa101_shareSchemesEtc_seafarersDeduction_MSG351|You have entered an amount for 'Seafarers' Earnings Deduction', there must be an entry in 'Name of ship(s)'. Please amend.|null
+totalBalancingChargeHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Total balancing charges</title><meta name="help-icon-alt" content="Help about: Total balancing charges" /></head><body><p>When you sell an item on which you have claimed capital allowances, deduct the amount you received for it (the sale proceeds) up to the cost of the item from the pool value brought forward or cost. Likewise, if you give away or no longer use an item for business purposes, deduct the current market value of the item (up to its original cost) from the pool value or cost. If the sale proceeds or the market value of the item is more than the unrelieved balance in the pool value, the difference is called a 'balancing charge' and is taxable. Enter the total of any balancing charges.</p></body></html>|null
+enablePrintPreferencesConfigurationImageUrl.2.ist3||
+countryList.76.PYF|French Polynesia PYF|null
+worksheetOtherPropertyNumberOfDisposals|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Number of disposals</title><meta name="help-icon-alt" content="Help about: Number of disposals" /></head><body><p>This is the number of disposals of property (other than residential property), assets or gains that you made from 6 April 2016 to 5 April 2017. Ignore disposals you do not make in your own capacity, for example, disposals you make as a trustee.</p></body></html>|null
+countryList.63.ECU|Ecuador ECU|null
+countryList.183.BES|Saba BES|null
+countryList.90.GIN|Guinea GIN|null
+sa100_Income_StateBenefits_JobseekersAllowance_MSG337|The amount entered for 'Jobseeker's allowance' must be less than &pound;99,999. Please amend.|null
+countryList.165.PNG|Papua New Guinea PNG|null
+august|August|null
+sa108_residentialProperty_making_claimsOrElections_MSG394|If you are making a claim or election you must select 'Yes' to 'Are you making any claims or elections?'|null
+sa108_residentialProperty_making_claimsOrElections_MSG392|If you are not making a claim or election you must not select a code.|null
+sa108_residentialProperty_making_claimsOrElections_MSG393|You must select a code if you selected 'Yes' to 'Are you making any claims or elections?'.|null
+returnAlreadyFiledPage|Submitted Return|null
+countryList.145.MAR|Morocco MAR|null
+countryList.240.ZWE|Zimbabwe ZWE|null
+countryList.40.CYM|Cayman Islands CYM|null
+countryList.81.GHA|Ghana GHA|null
+countryList.57.CZE|Czech Republic CZE|null
+sa100_finishReturn_bankName2_MSG090|Please complete 'Name of bank or building society'.|null
+sa108_quotedShares_lossesAgainstPreviousTaxYear_MSG021|The amount entered for 'Losses used against income 15-16' must be less than &pound;10,000,000,000. Please amend.|null
+sa108_quotedShares_lossesAgainstPreviousTaxYear_MSG017|The amount entered for 'Losses used against income 15-16' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+sa108_quotedShares_lossesAgainstPreviousTaxYear_MSG006|The amount entered for 'Losses used against income 15-16' cannot be less than 0 (zero). Please amend.|null
+listedPropertyGainRTT|If, during 2016-17, you submitted a Real Time Transaction Tax return(s) for the disposal of listed shares or securities, enter the overall gain or loss - include the individual amounts of 'Gains in year' and 'Losses in the year'|null
+sa108_ftcrAttributedGain_MSG090|Please complete 'Is this an attributed gain'.|null
+sa100_finishReturn_accountHolderName2_MSG090|Please complete 'Name of account holder'.|null
+countryList.151.NCL|New Caledonia NCL|null
+countryList.211.TWN|Taiwan TWN|null
+countryList.205.SUR|Suriname SUR|null
+countryList.136.MUS|Mauritius MUS|null
+enablePrintPreferencesConfiguration|<![CDATA[      	<script>      		var imageUrl = '$IMAGE_URL';      		if(imageUrl)      		{						if(/\?/.test(imageUrl))						{							imageUrl += String.fromCharCode(38);						}						else						{							imageUrl += '?';						}						imageUrl += 't=' + new Date().getTime();						var image = document.createElement('IMG');						image.src = imageUrl;						image.onload = function()						{							var startButton = document.getElementById('ButtonStart');							var form = startButton.form;							var input = document.createElement('INPUT');							input.type = 'hidden';							input.name = 'setPrintPreferences';							input.value = 'true';							form.appendChild(input);						}					}      	</script>      ]]>|null
+sa108_quotedShares_lossesInTheYear_MSG021|The amount entered for 'Losses in the year' must be less than &pound;10,000,000,000. Please amend.|null
+isMakingClaimHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>If you are making any claims or elections, select the relevant code</title><meta name="help-icon-alt" content="Help about: If you are making any claims or elections, select the relevant code" /></head><body><p></p></body></html>|null
+residentialPropertyGainsInYear|Gains in the year, before losses - do not include any gains subject to non-resident Capital Gains Tax|null
+countryList.86.GLP|Guadeloupe GLP|null
+countryList.77.GAB|Gabon GAB|null
+AmountOfGain|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Amount of Gain</title><meta name="help-icon-alt" content="Help about: Amount of Gain" /></head><body><p>Enter the amount of the chargeable gain.</p><p>If the gain arises on an asset which was not wholly a business or a non-business asset during the period you held it from 6 April 1998, the gain must be appropriately apportioned between the business and non-business elements. Part of the gain will qualify for the business asset taper and the other part for the non-business asset taper (see Help Sheet 279).</p><p>If you have to apportion a gain between business and non-business elements, treat the 2 parts as separate gains for the purposes of this calculator, one gain attracting business taper relief and the other non-business taper relief.</p></body></html>|null
+sa108_quotedShares_lossesInTheYear_MSG017|The amount entered for 'Losses in the year' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+sa104f_class4Nic_isExemptClass4Nic_MSG333|You must answer 'Yes' to 'Are you exempt from paying Class 4 NICs?' as you have indicated you are over the state pension age. Please amend.|null
+countryList.214.THA|Thailand THA|null
+worksheetOtherPropertyLossesInTheYear|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Losses in the year</title><meta name="help-icon-alt" content="Help about: Losses in the year" /></head><body><p>Please enter the total of any losses made on the disposals of other property and assets. This figure will be after taking into account the effect of any relief, claims or elections.</p><p>Any losses on disposals that relate to Entrepreneurs&#8217;relief claim should be accounted for.</p></body></html>|null
+countryList.182.VCT|St Vincent and the Grenadines VCT|null
+businessDatesExample|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body /></html>|null
+listedSharesMakingAnyClaimsOrElections||
+countryList.194.SXM|Sint Maarten (Dutch part) SXM|null
+countryList.43.CHL|Chile CHL|null
+confirmUkPensionWorksheet|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>'Confirm' will delete this worksheet.</p></body></html>|null
+businessStartDateHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>If your business started after 5 April 2016</title><meta name="help-icon-alt" content="Help about: If your business started after 5 April 2016" /></head><body><p>If your business started (or started working for yourself) between 6 April 2016 and 5 April 2017 enter the appropriate date in this field.</p><p>You'll be taxable on any profits for the period beginning on the date you started working for yourself and ending on 5 April 2017.</p><p>If you haven't already registered for self-employment and Class 2 National Insurance contributions (NIC's), you must do so now. <a href="http://www.gov.uk/working-for-yourself" target="_blank">For more information about working for yourself</a>.</p></body></html>|null
+worksheetOtherPropertyDisposalProceeds|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Disposal Proceeds</title><meta name="help-icon-alt" content="Help about: Disposal Proceeds" /></head><body><p>This is the total disposal proceeds for other property and other assets and gains (before taking into account any reliefs or claims).</p></body></html>|null
+sa108_unlistedShares_losses_MSG175|There is an entry in 'Losses used against return year income' or 'Losses used against previous return year income'. 'Losses used against return year income' plus 'Losses used against previous return year income' must be less than or equal to 'Losses in the year'. Please amend.|null
+sa108_losses_capitalGains_MSG007|The amount entered for 'Losses used against an earlier year's gain' must be less than or equal to the sum of 'Losses in the year' for all disposed chargeable assets and the absolute value of 'Claims relation to NRCGT' minus the sum of 'Losses against income' and 'Losses against current tax year' in Unlisted shares and securities if any entered. Please amend.|null
+countryList.228.GBR|United Kingdom GBR|null
+tailorErrorMessageForMAAmend|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>You cannot remove a section from within '3. Tailor your return'.<br />Please use the 'Delete' link from within the section you wish to remove.</p><p>If your circumstances have changed and you now want to delete the Marriage Allowance section please refer to <a class="&#8221;new-window&#8221;" href="https://www.gov.uk/marriage-allowance" shape="rect">Marriage Allowance</a> for further information.</p></body></html>|null
+setPrintPreferencesRedirectUrl.4.ibt|https://web-qa.tax.service.gov.uk/sa/print-preferences/$TOKEN?return_url=$RETURN_URL%3Ftp%3Dtrue&amp;lang=en|null
+residentialSharesInfo|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>This is a summary of your Residential property (and carried interest)</p></body></html>|null
+countryList.202.ESP|Spain ESP|null
+countryList.115.KGZ|Kyrgyzstan KGZ|null
+residentialPropertyMakingAnyClaimsOrElections||
+nonBooleanList.1.NO|No|null
+countryList.197.SLB|Solomon Islands SLB|null
+CapitalGainsSelectSectionAmendPageDescription|Select section|null
+clientDeclarationWindow|HMRC: Client declaration|null
+countryList.237.WLF|Wallis and Futuna Islands WLF|null
+caLossesInTheYear|Losses in the year|null
+pleaseSelectOption|Please select an option|null
+incomeTaxPayerStatusList||null
+section|Section|null
+residentialPropertyGainRTT|If, during 2016-17, you submitted a Real Time Transaction Tax return(s) for the disposal of a residential property or properties, enter the overall loss  - include the individual amounts of gains from 'Gains in the year' and 'Losses in the year'|null
+countryList.109.JOR|Jordan JOR|null
+countryList.101.IRQ|Iraq IRQ|null
+countryList.95.HKG|Hong Kong (SAR) HKG|null
+countryList.208.SWE|Sweden SWE|null
+CeasedTradingChangedFullHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>[NA]</title><meta name="help-icon-alt" content="Help about: Select 'Yes' or 'No' if your business ceased trading after 5 April 2016 but before 6 April 2017" /></head><body></body></html>|null
+provideOneOfFollowing|<p>Please provide at least one of the following contact details: <span class="required">*</span></p>|null
+companieshouseStylesheets|			 <![CDATA[				<link rel="stylesheet" href="/style/ck/hmrc.css" type="text/css">				<link rel="stylesheet" href="/style/ck/print.css" type="text/css" media="print">				<!--[if IE 8]>				<link rel="stylesheet" href="/style/ck/ie8fix.css" type="text/css">				<![endif]-->				<!--[if IE 7]>				<link rel="stylesheet" href="/style/ck/ie7fix.css" type="text/css">				<![endif]-->				<!--[if IE 6]>				<link rel="stylesheet" href="/style/ck/ie6fix.css" type="text/css">				<![endif]-->			 ]]>			|null
+hmrcStylesheets|				<![CDATA[						<link rel="stylesheet" href="/style/ck/hmrc.css" type="text/css">						<link rel="stylesheet" href="/style/ck/print.css" type="text/css" media="print">						<!--[if IE 8]>						<link rel="stylesheet" href="/style/ck/ie8fix.css" type="text/css">						<![endif]-->						<!--[if IE 7]>						<link rel="stylesheet" href="/style/ck/ie7fix.css" type="text/css">						<![endif]-->						<!--[if IE 6]>						<link rel="stylesheet" href="/style/ck/ie6fix.css" type="text/css">						<![endif]-->				]]>			|null
+sa108_summary_TotalLossesForTheYear_MSG007|The amount entered for 'Total losses of the year (enter '0' if there are none)' cannot be less than 0 (zero). Please amend.|null
+sa110_selfAssessment_box3_MSG017|The amount entered for 'Student Loan repayment due' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+limitOnIncomeTaxReliefWindow|HMRC: Limit on Income Tax relief|null
+sa110_selfAssessment_box3_MSG007|The amount entered for 'Student Loan repayment due' cannot be less than 0 (zero). Please amend.|null
+sa108_summary_TotalLossesForTheYear_MSG021|The amount entered for 'Total losses of the year (enter '0' if there are none)' must be less than &pound;10,000,000,000. Please amend.|null
+MSG_notificationEmail|ERROR: You must enter your notification email address|null
+sa108_summary_TotalLossesForTheYear_MSG017|The amount entered for 'Total losses of the year (enter '0' if there are none)' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+sa110_selfAssessment_box3_MSG021|The amount entered for 'Student Loan repayment due' must be less than &pound;10,000,000,000. Please amend.|null
+sa101_pensionSchemeTaxRef_MSG012|'Pension scheme tax reference number' can only contain alpha, numeric and the following special characters: ' ( ) * , - . /  &amp; @ &pound;. The enter (or return) key located on your keyboard is not accepted. Please amend.|null
+countryList.140.MDA|Moldova MDA|null
+enablePrintPreferencesConfigurationImageUrl.4.ibt|https://web-qa.tax.service.gov.uk/sa/print-preferences/assets/images/tp.gif?lang=en|null
+sa108_otherGains_attributedGains_MSG007|The amount entered for 'Attributed gains where personal losses cannot be set off' cannot be less than 0 (zero). Please amend.|null
+setPrintPreferencesRedirectUrl.5.online|https://www.tax.service.gov.uk/sa/print-preferences/$TOKEN?return_url=$RETURN_URL%3Ftp%3Dtrue&amp;lang=en|null
+nonBooleanList.3.YES_ALL|Yes - all|null
+worksheetUnlistedSharesLossesInTheYear|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Losses in the year</title><meta name="help-icon-alt" content="Help about: Losses in the year" /></head><body><p>This is the total of any losses made on the disposals. This figure will be after taking into account the effect of any relief, claims or elections.</p></body></html>|null
+gainsInTheYearResidential|Gains in year, before losses - do not include any gains subject to non-resident Capital Gains Tax|null
+countryList.121.LBY|Libya LBY|null
+propertyAssetsLossesInTheYearHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Losses in the year</title><meta name="help-icon-alt" content="Help about: Losses in the year" /></head><body><p>Enter the total of any losses made on the disposals of other property and assets. This figure will be after taking into account the effect of any relief, claims or elections.</p><p>Any losses on disposals that relate to Entrepreneurs Relief claim should be accounted for.</p></body></html>|null
+sa100_charitableGiving_InvGiftedToNonUKCharities_MSG017|The amount entered for 'Value of qualifying investments gifted to non-UK charities in the above two boxes' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+countryList.168.PHL|Philippines PHL|null
+sa100_charitableGiving_InvGiftedToNonUKCharities_MSG021|The amount entered for 'Value of qualifying investments gifted to non-UK charities in the above two boxes' must be less than &pound;10,000,000,000. Please amend.|null
+sa108_quotedShares_shareLossReliefCurrentTaxYear_MSG006|The amount entered for 'Share Loss Relief in 16-17' cannot be less than 0 (zero). Please amend.|null
+countryList.223.TCA|Turks and Caicos Islands TCA|null
+statePensionEdit|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>State Pension (the amount due for the year, not the weekly amount)</title><meta name="help-icon-alt" content="Help about: State Pension (the amount due for the year, not the weekly amount)" /></head><body><p>Please enter the full amount you were entitled to for the year, but take off:</p><ul>    <li>any addition for a dependent child</li>    <li>the Christmas bonus</li>    <li>the winter fuel payment</li>    <li>any reduction in the payments, perhaps for time spent in hospital</li>  </ul><p>The figure to enter is the total of your weekly entitlements, even if you were paid monthly or quarterly. If you do not know the figure please phone Pensions Direct on Tel: 0845 301 3011 and ask for Form BR735 for the year 6 April 2008 to 5 April 2009. </p><p>As well as your basic pension, the entry should include:</p><ul>    <li> any graduated pension</li>    <li>the age addition if you are over 80</li>    <li>increases paid by the Department for Work and Pensions (DWP) to uprate a guaranteed minimum pension</li>    <li>any addition for a dependent adult</li>    <li>any extra pension paid because you deferred or temporarily gave up your State Pension</li>  </ul><p><strong>Married women</strong></p><p>You should include any State Pension payable to you because of your husband's National Insurance Contributions.</p></body></html>|null
+sa100_charitableGiving_InvGiftedToNonUKCharities_MSG007|The amount entered for 'Value of qualifying investments gifted to non-UK charities in the above two boxes' cannot be less than 0 (zero). Please amend.|null
+sa108_quotedShares_shareLossReliefCurrentTaxYear_MSG021|The amount entered for 'Share Loss Relief in 16-17' must be less than &pound;10,000,000,000. Please amend.|null
+sa108_quotedShares_shareLossReliefCurrentTaxYear_MSG017|The amount entered for 'Share Loss Relief in 16-17' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+countryList.131.MLI|Mali MLI|null
+sa108_propertySummary_allowableCosts_MSG006|The amount entered for 'Allowable costs (including purchase price)' must be greater than 0 (zero) or blank. Please amend.|null
+desiredAmendActions||
+countryList.52.CIV|C&#244;te d'Ivoire CIV|null
+sa104s_class4Nic_isExemptClass4Nic_MSG333|You must answer 'Yes' to 'Are you exempt from paying Class 4 NICs?' as you have indicated you are over the state pension age. Please amend.|null
+april|April|null
+residentialPropertyLossesInYear|Losses in the year - do not include any losses incurred on the disposal of a property subject to non-resident Capital Gains Tax|null
+collectTaxUsingTaxCodeHtml|If you owe tax for 2016-17 and have a PAYE tax code, we will try to collect the tax due (If less than &pound;3,000) through your tax code for 2017-18, unless you put 'X' in the box:|null
+sa104s_partShare_basisPeriodStartDate_MSG321|You have entered a date in 'Date your basis period ended' you need to complete 'Date your basis period began'. Please amend.|null
+countryList.188.SEN|Senegal SEN|null
+sa108_rtt_taxAlreadyCharged_gainLossRTT_MSG161|There is an entry in 'RTT tax already charged'. Please complete 'Gain or loss from RTT'.|null
+sa108_quotedShares_totalGains_MSG170|If 'Gain from RTT' is entered with positve value then 'Gains in the year, before losses' must be present. Please amend.|null
+sa108_quotedShares_totalGains_MSG172|If 'Gain from RTT' is entered with negative value then 'Losses in the year' must be present. Please amend.|null
+countryList.154.NER|Niger NER|null
+sa108_quotedShares_totalGains_MSG171|If 'Gain from RTT' is entered then it should be less than or equal to 'Gains in the year, before losses'. Please amend.|null
+sa108_quotedShares_totalGains_MSG173|If 'Gain from RTT' is entered with negative value then the absolute value of 'Gain from RTT' should be less than or equal to 'Losses in the year'. Please amend.|null
+payeCorrespondenceDetails|PAYE correspondence details|null
+countryList.112.KIR|Kiribati KIR|null
+CapitalGainsSelectSectionCorrectPageDescription|Select section|null
+countryList.51.CRI|Costa Rica CRI|null
+countryList.222.TKM|Turkmenistan TKM|null
+sa108_unlistedSharesSummary_numberOfDisposals_MSG005|The amount entered for 'Number of disposals' must be greater than 0 (zero) or blank. Please amend.|null
+studentLoanPlanTypeList.2.02|Plan type 2|null
+CalculationSummaryCorrectPageDescription|Correct summary|null
+countryList.74.FRA|France FRA|null
+sa101_otherInformation_pensionTaxAndLumpSums_MSG006|The amount entered for 'Taxable refunds of contributions (overseas pension schemes only)' must be greater than 0 (zero) or blank. Please amend.|null
+sa101_otherInformation_pensionTaxAndLumpSums_MSG017|The amount entered for 'Taxable refunds of contributions (overseas pension schemes only)' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+countryList.59.DNK|Denmark DNK|null
+sa101_otherInformation_pensionTaxAndLumpSums_MSG021|The amount entered for 'Taxable refunds of contributions (overseas pension schemes only)' must be less than &pound;10,000,000,000. Please amend.|null
+MSG7802|ERROR: You must enter your AEOI ID.|null
+MSG7803|ERROR: The AEOI ID you have supplied is invalid. The correct format is 10 numeric digits.|null
+sa108_unquotedShares_disposalProceeds_MSG331|The amount entered in 'Disposal proceeds' must be greater than or equal to &pound;1. Please amend.|null
+sa101_shareSchemesEtc_nameOfShip_MSG352|You have entered an amount for 'Name of ship(s)', there must be an entry in 'Seafarers' Earnings Deduction'. Please amend.|null
+countryList.42.TCD|Chad TCD|null
+htmlHeadMeta|				<![CDATA[					<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">					<meta http-equiv="Content-Style-Type" content="text/css">					<meta http-equiv="Content-Script-Type" content="text/javascript">					<script type="text/javascript" src="/js/frameworkFunctions.js"></script>					<link rel="canonical" href="https://www.tax.service.gov.uk/gg/sign-in">				]]>			|null
+WhenCannotUseCapitalGainsWorksheetHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>When you cannot use a worksheet</title><meta name="help-icon-alt" content="Help about: When you cannot use a worksheet" /></head><body><p>The worksheet is for simple calculations of gains or losses and can be used for the disposal of land or other assets. You may also use it for the disposal of shares but only if it is the disposal of the whole of your holding of a particular class of shares.</p><p>You will not be able to use the worksheet in all cases. For example, you will not be able to use it if the asset has been acquired by the exercise of an option or if the disposal is a part disposal. You will also not be able to use it where you have disposed of a number of individual assets, and the gains and losses on those assets are taken together for an entrepreneurs' relief claim.</p><p>Further guidance on Entrepreneurs' relief can be found in <a class="new-window" href="https://www.gov.uk/government/publications/entrepreneurs-relief-hs275-self-assessment-helpsheet">Help Sheet 275 - Entrepreneurs' relief (PDF 112K)</a></p><p>You should also not use the worksheet if you have to pay capital gains tax on gains made by a non-UK resident Trust or a non-UK resident company in which you have an interest, or on gains which arose in earlier years but became taxable in 2008/09.</p><p>To view the guidance notes you need to use a PDF file viewer. You can get one at <a href="http://www.adobe.com">www.adobe.com</a></p></body></html>|null
+october|October|null
+pageResidentialProperty|Residential property (and carried interest)|null
+sa103s_busIncome_turnover_MSG007|The amount entered for 'Turnover - takings, fees, sales or money earned by your business' cannot be less than 0 (zero). Please amend.|null
+nomineeList||
+countryList.53.HRV|Croatia HRV|null
+typeOfGain||
+countryList.106.JAM|Jamaica JAM|null
+wouldYouLikeToUseFTCRList||
+CeasedTradingChangedHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>[NA]</title><meta name="help-icon-alt" content="Help about: Select 'Yes' or 'No' if your business ceased trading after 5 April 2016 but before 6 April 2017" /></head><body></body></html>|null
+countryList.195.SVK|Slovakia SVK|null
+countryList.92.GUY|Guyana GUY|null
+sa108_unquotedShares_numberOfDisposals_MSG005|The amount entered for 'Number of disposals' must be greater than 0 (zero) or blank. Please amend.|null
+countryList.163.PLW|Palau PLW|null
+setPrintPreferencesRedirectUrl.2.ist3||
+employStaffSubcontractors|Employing staff and engaging with subcontractors|null
+unlistedSharesMakingAnyClaimsOrElections||
+countryList.198.SOM|Somalia SOM|null
+countryList.148.NRU|Nauru NRU|null
+arrowYetToEnterInfo|A tick means you have entered information in this section|null
+countryList.200.KOR|South Korea KOR|null
+maritalStatusList.8.survivingPartner|Surviving Civil Partner|null
+sa108_unlistedShares_lossesForYearMustBePresentIfLossesUsedAgainstReturnYearIncomeIsPresent|There is an entry in 'Losses used against return year income'. Please complete 'Losses in the year'.|null
+countryList.236.VNM|Vietnam VNM|null
+unlistedSharesGainFromRTTHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Submitting a Real Time Transaction Tax return(s) for the disposal of unlisted shares or securities</title><meta name="help-icon-alt" content="Help about: Submitting a Real Time Transaction Tax return(s) for the disposal of unlisted shares or securities" /></head><body><p>If you have disposed of unlisted shares and securities and included this on a Real Time Transaction Return put the overall gain or loss in the box. If the result for the year was a loss, put a minus sign in the shaded box in front of your figure. Also enter the reference numbers for any returns made in any other information.</p></body></html>|null
+countryList.157.NFK|Norfolk Island NFK|null
+unlistedPropertyGainRTT|If, during 2016-17, you submitted a Real Time Transaction Tax return(s) for the disposal of unlisted shares or securities, enter the overall gain or loss - include the individual amounts of 'Gains in the year' and 'Losses in the year'|null
+sa108_quotedShares_nrcgt_TaxGainAlreadyCharged_MSG017|The amount entered for 'NRCGT tax already charged' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+countryList.189.SRB|Serbia and Montenegro SRB|null
+march|March|null
+companieshouseHeaderPopup|				<![CDATA[					<div id="header-digital">						$ACCESS_KEYS						<img src="/images/digitalLogo.png" alt="HM Revenue &amp; Customs" height="0" width="256" class="screen"><img src="/images/digitalLogo-print.png" alt="" height="29" width="256" class="print">						<ul class="inline-navigation">							$LANGUAGE_MENU_ITEMS							<!-- [JavaScript]								<li><a href="javascript:print()">Print</a>|null
+countryList.143.MNE|Montenegro MNE|null
+sa108_otherGains_disposalProceeds_MSG179|The amount entered for 'Disposal proceeds' must be greater than -&pound;10,000,000,000. Please amend.|null
+sa100_finishReturn_nomineeAddress_line2_MSG334|'Nominee's address line 2:' must be completed if address line 3 or address line 4 are completed. Please amend.|null
+sa100_charitableGiving_DonationsToNonUKCharities_MSG021|The amount entered for 'Gift Aid payments to non-UK charities in the first box above' must be less than &pound;10,000,000,000. Please amend.|null
+caAdditionalLiability|Additional liability for non-resident or duel resident trusts|null
+sa100_charitableGiving_DonationsToNonUKCharities_MSG017|The amount entered for 'Gift Aid payments to non-UK charities in the first box above' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+sa100_charitableGiving_DonationsToNonUKCharities_MSG007|The amount entered for 'Gift Aid payments to non-UK charities in the first box above' cannot be less than 0 (zero). Please amend.|null
+residentialPropertyGainFromRTTHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Submitting a Real Time Transaction Tax return(s) for the disposal of residential property</title><meta name="help-icon-alt" content="Help about: Submitting a Real Time Transaction Tax return(s) for the disposal of residential property" /></head><body><p>If you have disposed of an interest in a residential property and included this on a Real Time Transaction Tax Return, enter the overall gain or loss in the box. If the result for the year was a loss, put a minus sign in the shaded box in front of your figure. Enter the reference numbers of any returns made in box any other information.</p></body></html>|null
+CapitalGainsSelectSectionPageDescription|Select sections|null
+sa108_unquotedShares_totalGains_MSG007|The amount entered for 'Gains in the year' cannot be less than 0 (zero). If 0 (Zero) please leave blank, this will not affect your tax calculation.|null
+businessContactDetails|Business contact details|null
+sa108_unlistedShares_lossesForYearMustBePresentIfLossesUsedAgainstPreviousReturnYearIncomeIsPresent|There is an entry in 'Losses used against previous Return Year income'. Please complete 'Losses in the year'.|null
+sa108_unlistedSharesSummary_allowableCosts_MSG006|The amount entered for 'Allowable costs (including purchase price)' must be greater than 0 (zero) or blank. Please amend.|null
+countryList.134.MTQ|Martinique MTQ|null
+countryList.97.ISL|Iceland ISL|null
+alternativelyLogout.companieshouse|Alternatively you may <a href="#LOGOUT_URL">logout and return to Companies House</a>.|null
+countryList.117.LVA|Latvia LVA|null
+nonBooleanList.2.YES_SOME|Yes - some|null
+countryList.83.GRC|Greece GRC|null
+dataNotAvailable|Not available|null
+countryList.207.SWZ|Swaziland SWZ|null
+countryList.213.TZA|Tanzania TZA|null
+viewHtml.YPD2|Your name and address if it is different from what is on the front of this form. Please write the correct details underneath the wrong ones, and put 'X':|null
+gainsOther|Other gains|null
+countryList.88.GTM|Guatemala GTM|null
+returnAlreadyFiledWindow|HMRC: Submitted Return|null
+countryList.45.CXR|Christmas Island CXR|null
+countryList.169.PCN|Pitcarn Island PCN|null
+countryList.225.UGA|Uganda UGA|null
+assetTypeList.3.OTHER_PROPERTY|Other property, assets and gains|null
+bankSavingsGains|Savings interest from banks or building societies, securities and gains on life policies|null
+gainsResidentialPropertyBR|Residential property and carried interest basic rate|null
+sa100_Income_StateBenefits_JobseekersAllowance_MSG006|The amount entered for 'Jobseeker's allowance' must be greater than 0 (zero) or blank. Please amend.|null
+countryList.71.FRO|Faroe Islands FRO|null
+propertyNumberOfDisposalsHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Number of disposals</title><meta name="help-icon-alt" content="Help about: Number of disposals" /></head><body><p>Enter the number of disposals of property (other than residential property), assets or gains that you made from 6 April 2016 to 5 April 2017. Ignore disposals you do not make in your own capacity, for example, disposals you make as a trustee</p></body></html>|null
+sa100_Income_StateBenefits_JobseekersAllowance_MSG017|The amount entered for 'Jobseeker's allowance' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+countryList.54.CUB|Cuba CUB|null
+payPensionProfitScottish|Pay, pensions, profit etc. (Scottish income tax rate). |null
+sa103s_deductions_IsExemptClass4Nic_MSG333|You must answer 'Yes' to 'Are you exempt from paying Class 4 NICs?' as you have indicated you are over the state pension age. Please amend.|null
+MSG7566|ERROR: You must enter your postcode or indicate that you are not based in the UK.|null
+countryList.103.IOM|Isle of Man IMN|null
+wf36_01_LinkGeneralCapitalGainsNotes|										Capital Gains Summary Notes								|
+bankSavingsInterest|Savings interest from banks or building societies, securities and gains on life policies|null
+minusAdditionalTaxPensionPayments|<em>minus</em>Additional tax due on pension payments|null
+countryList.216.TOG|Togo TGO|null
+countryList.152.NZL|New Zealand NZL|null
+changeAddress|Change address|null
+residentialPropertyCarriedInterestWindow|HMRC: Fill in your return - Residential property and carried interest|null
+yourHMRCServices|Your HMRC services|null
+countryList.192.SGP|Singapore SGP|null
+businessEmails|/business-emails/subscription|null
+windowTermsAndConditions|HMRC: Terms &amp; conditions|null
+otherPropertyMakingAnyClaimsOrElections||
+sa108_quotedShares_carriedInterest_MSG006|The amount entered for 'Carried interest' cannot be less than 0 (zero). Please amend.|null
+nonBooleanList||
+studentLoanPlanTypeList||null
+CalculationSummaryEnterPageDescription|Enter summary|null
+CalculationSummaryAmendPageDescription|Amend summary|null
+countryList.177.RWA|Rwanda RWA|null
+marriedCoupleAllowanceList||
+worksheetForUseInfoForWorksheet|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>This worksheet is for your use only and will not be sent to HM Revenue and Customs when you submit your return.</p></body></html>|null
+countryList.100.IRN|Iran IRN|null
+sa108_otherGains_allowableCosts_MSG006|The amount entered for 'Allowable costs (including purchase price)' must be greater than 0 (zero) or blank. Please amend.|null
+countryList.108.JSY|Jersey JEY|null
+delLimitOnIncomeTaxReliefWindow|HMRC: Delete - Limit on Income Tax relief|null
+countryList.123.LTU|Lithuania LTU|null
+countryList.94.HND|Honduras HND|null
+studentLoanPlanTypeList.1.01|Plan type 1|null
+tAndcCHAR|/information/terms|null
+countryList.146.MOZ|Mozambique MOZ|null
+countryList.203.LKA|Sri Lanka LKA|null
+countryList.128.MWI|Malawi MWI|null
+numPartnershipsList||
+countryList.68.EST|Estonia EST|null
+december|December|null
+countryList.166.PRY|Paraguay PRY|null
+countryList.172.PRI|Puerto Rico PRI|null
+countryList.186.STP|Sao Tome and Principe STP|null
+portletAgentClientReference|Agent client reference|null
+minusMarriageAllowanceTransfer|<em>minus</em> Marriage Allowance Transfer|null
+countryList.39.CPV|Cape Verde CPV|null
+maritalStatusList.7.widower|Widower|null
+nomineeList.1.YOURSELF|Yourself|null
+foreignTaxCreditReliefRates||
+sa101_incomeTaxLosses_yearReliefClaimed_MSG339|The entry for 'Year for which you are claiming relief above' must be in a valid pair of consecutive years in the format YYYY YY. Please amend.|null
+ResidentialPropertyCapitalGainsChangePageDescription|Change residential property|null
+propertyAssetsGainsInYear|Gains in the year, before losses - do not include attributed gains included below|null
+taxAlreadyChargedRTT|Tax on gains (shown above) already charged|null
+groupDetails|Group details|null
+sa_feedback_q1_MSG332|You have provided feedback 15 times. This is the maximum number of times you are able to leave feedback for this year.|null
+RetryToSaveYourReturnAttachErrInfo|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>Please try again later by going to <a href="saveYourReturn" id="wf70_11_LinkSaveYourReturn" shape="rect">7. Save your return</a>.</p></body></html>|null
+businessDetails|Business details|null
+pensTaxDue|<em>plus</em>	Additional tax due on pension payments|null
+studentLoanPlanType_01|Plan type 1|null
+studentLoanPlanType_02|Plan type 2|null
+countryList.137.MYT|Mayotte MYT|null
+countryList.231.URY|Uruguay URY|null
+residentialPropertyNrcgtClaimsHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Non-resident Capital Gains Tax for the disposal of a UK residential property</title><meta name="help-icon-alt" content="Help about: Non-resident Capital Gains Tax for the disposal of a UK residential property" /></head><body><p>If you have disposed of an interest in a residential property situated in the UK and were either not resident in the UK or the disposal was in the overseas part of a split year, you must complete this box. Enter the total amount of gains chargeable to Non-resident Capital Gains Tax (NRCGT) after any NRCGT losses of the year. If the total NRCGT result for the year is a loss, put a minus sign in the shaded box in front of your figure. Also enter the reference numbers of the NRCGT returns made in additional information.</p><p>More information on <a href="www.gov.uk/guidance/capital-gains-tax-for-non-residents-uk-residential-property" target="_blank">Capital Gains Tax for non-residents</a></p></body></html>|null
+countryList.60.DJI|Djibouti DJI|null
+tickEnteredInformation|A tick means you have entered information in this section|null
+averageAdjustmentHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Averaging adjustment</title><meta name="help-icon-alt" content="Help about: Averaging adjustment" /></head><body><p>If the partnership:</p><ul><li>carries on the business of farming or market gardening</li><li>has income from selling or allowing others to reproduce literary or artistic works which were created by one or more of the partners</li></ul><p>you may be able to claim 'averaging'</p><p>For more information please view the:</p><ul><li><a class="new-window" href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/323579/hs224.pdf">Help Sheet 224 - Farmers and market gardeners</a></li><li><a class="new-window" href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/323619/hs234.pdf">Help Sheet 234 - Averaging for creators of literary or artistic works</a></li></ul><p>Enter the amount in this field by which your profit is changed by the averaging claim. Put a minus sign (-) in if the adjustment reduces your profit. This entry does not change the amount of any loss to be included later in the return.</p><p>For further guidance and information see the <a class="new-window" href="https://www.gov.uk/government/publications/self-assessment-partnership-short-sa104s">Partnership (short) notes</a>.</p></body></html>|null
+sa108_summary_adjustmentToCGT_MSG179|The amount entered for 'Adjustments to Capital Gains Tax' must be greater than -&pound;10,000,000,000. Please amend.|null
+uncappedLossSetOffCYAmount|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Amount in &#8216;Losses used against income&#8217; relating to share loss relief in tax year 2016 to 2017 to which Enterprise Investment Scheme/Seed Enterprise Investment Scheme relief is attributable </title><meta name="help-icon-alt" content="Help about: Amount in &#8216;Losses used against income&#8217; relating to share loss relief in tax year 2016 to 2017 to which Enterprise Investment Scheme/Seed Enterprise Investment Scheme relief is attributable " /></head><body><p>Enter the amount in this field that you included in the previous field for shares that Enterprise Investment Scheme or Seed Enterprise Investment Scheme Relief is due.</p></body></html>|null
+countryList.65.SLV|El Salvador SLV|null
+columnAction|Action|null
+countryList.224.TUV|Tuvalu TUV|null
+countryList.114.KWT|Kuwait KWT|null
+lossesInTheYearResidential|Losses in the year - do not include any losses incurred on the disposal of a property subject to non-resident Capital Gains Tax|null
+uncappedLossSetOffPYAmount|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Amount above relating to Share Loss Relief in tax year  2015 to 2016 to which Enterprise Investment Scheme/Seed Enterprise Investment Scheme relief is attributable </title><meta name="help-icon-alt" content="Help about: Amount above relating to Share Loss Relief in tax year  2015 to 2016 to which Enterprise Investment Scheme/Seed Enterprise Investment Scheme relief is attributable " /></head><body><p>Enter the amount in this field that you included in the previous field for shares that Enterprise Investment Scheme or Seed Enterprise Investment Scheme Relief is due</p></body></html>|null
+countryList.215.TLS|Timor-Leste TLS|null
+propertyAssetsRTTAlreadyChargedHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Tax on gains already charged</title><meta name="help-icon-alt" content="Help about: Tax on gains already charged" /></head><body><p>Please enter the total amount of tax you paid on the Real Time Transaction Return(s) shown above</p></body></html>|null
+howExpensesRecordedList||
+sa103s_netProfitLoss_ForLoss_MSG179|The amount entered for 'Net Loss' must be greater than -&pound;10,000,000,000. Please amend.|null
+TaxCalculationBreakDownInfo|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>This section provides you with a breakdown of your full calculation. If it says your tax return is 100% complete then you have submitted your return and this is a copy of the information held on your official online Self Assessment tax account with HM Revenue and Customs.</p></body></html>|null
+residentialPropertyCarriedInterestHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Carried Interest</title><meta name="help-icon-alt" content="Help about: Carried Interest" /></head><body><p>Enter the amount of gain from carried interest. This amount must be included in the 'Gains in the year'.</p><p>This box will not apply in many cases.</p></body></html>|null
+sa103s_netProfitLoss_ForProfit_MSG007|The amount entered for 'Net Profit' cannot be less than 0 (zero). Please amend.|null
+confirmTaxReturnAction|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>'Confirm' will delete your return and take you to the Self Assessment Homepage</p></body></html>|null
+setPrintPreferencesRedirectUrl.1.dev||
+yearList||
+countryList.44.CHN|China CHN|null
+capitalGainsCarriedInterest|Carried interest|null
+setPrintPreferencesRedirectUrl.3.online-qa|https://www.qa.tax.service.gov.uk/sa/print-preferences/$TOKEN?return_url=$RETURN_URL%3Ftp%3Dtrue&amp;lang=en|null
+sa103s_netProfitLoss_ForProfit_MSG021|The amount entered for 'Net Profit' must be less than &pound;10,000,000,000. Please amend.|null
+sa103s_netProfitLoss_ForProfit_MSG017|The amount entered for 'Net Profit' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+checkYourReturnInfo|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>To complete your return you may need the following documents:</p><ul>    <li>P60 or P45 (Part 1A)</li>    <li>P11D or equivalent information from your employer</li>    <li>Profit or loss accounts</li>    <li>Records of business receipts and business expenses</li>    <li>Records of property receipts and property expenses</li>    <li>Profit or loss accounts</li>    <li>Your partnership statement</li>    <li>Investment brokers schedules</li>    <li>Formal valuations</li>    <li>Capital gains and losses computations</li>    <li>Foreign bank statements etc</li>    <li>Foreign property letting accounts etc</li>    <li>Bank, building society, unit trust, etc statements and certificates or passbooks</li>    <li>Dividend counterfoils or investment brokers schedules</li>    <li>Correspondence from the Department for Work and Pensions</li>    <li>Personal pension contribution certificates or receipts</li>    <li>Bank statements or any receipts from the charity</li>    <li>Correspondence from HM Revenue &amp; Customs or Jobcentre Plus</li>    <li>2008-09 and 2009-10 Notices of Coding</li>    <li>Correspondence from adviser</li>    <li>VCT certificates</li>    <li>Bank statements</li>    <li>Details of any surplus allowance available from your spouse or civil partner</li>    <li>Business records etc</li>    <li>Correspondence from the pension scheme trustees etc</li>    <li>P60 or P45</li>  </ul></body></html>|null
+setPrintPreferencesRedirectUrl.3.ibt||
+sa103f_calcProfit_taxableProfit_MSG007|The amount entered for 'Total taxable profits from this business' cannot be less than 0 (zero). Please amend.|null
+countryList.230.VIR|United States Virgin Islands VIR|null
+countryList.80.DEU|Germany DEU|null
+sa108_unlistedShares_making_claimsOrElections_MSG392|If you are not making a claim or election you must not select a code.|null
+countryList.193.BES|Sint Eustatius BES|null
+enablePrintPreferencesConfigurationImageUrl||
+countryList.178.SHN|St Helena and Dependencies SHN|null
+sa108_quotedShares_carriedInterest_MSG021|The amount entered for 'Carried interest' must be less than &pound;10,000,000,000. Please amend.|null
+sa108_quotedShares_carriedInterest_MSG017|The amount entered for 'Carried interest' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+countryList.141.MCO|Monaco MCO|null
+digitalStylesheets|				<![CDATA[					<link rel="stylesheet" href="/style/ck/hmrc.css" type="text/css">					<link rel="stylesheet" href="/style/ck/print.css" type="text/css" media="print">					<!--[if IE 8]>					<link rel="stylesheet" href="/style/ck/ie8fix.css" type="text/css">					<![endif]-->					<!--[if IE 7]>					<link rel="stylesheet" href="/style/ck/ie7fix.css" type="text/css">					<![endif]-->					<!--[if IE 6]>					<link rel="stylesheet" href="/style/ck/ie6fix.css" type="text/css">					<![endif]-->				]]>			|null
+sa108_summary_adjustmentToCGT_MSG017|The amount entered for 'Adjustments to Capital Gains Tax' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+residentialPropertytaxGainAlreadyChargedHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Tax on Gains</title><meta name="help-icon-alt" content="Help about: Tax on Gains" /></head><body><p>Please enter the total amount of Non-resident Capital Gains Tax (NRCGT) you included on your NRCGT returns for the year.</p></body></html>|null
+worksheetResidentialPropertyLossesInTheYear|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Losses in the year</title><meta name="help-icon-alt" content="Help about: Losses in the year" /></head><body><p>This is the total of any losses made on the disposals of interests in residential property (and any carried interest gains), after taking into account any relief, claims or elections.</p><p>Don't include any losses subject to non-resident Capital Gains Tax. Put these amounts in If you are chargeable to non-resident Capital Gains Tax (NRCGT) for the disposal of a UK residential property or properties during 2016 to 2017, put the total gain chargeable to NRCGT after losses, or loss</p></body></html>|null
+countryList.38.CAN|Canada CAN|null
+sa108_summary_adjustmentToCGT_MSG021|The amount entered for 'Adjustments to Capital Gains Tax' must be less than &pound;10,000,000,000. Please amend.|null
+enablePrintPreferencesConfigurationImageUrl.1.dev||
+sa103s_netProfitLoss_ForLoss_MSG017|The amount entered for 'Net Loss' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+sa103s_netProfitLoss_ForLoss_MSG023|The amount entered for 'Net Loss' must be less than 0 (zero). Please amend.|null
+countryList.99.IDN|Indonesia IDN|null
+valuesBroughtForwardList||
+countryList.67.ERI|Eritrea ERI|null
+may|May|null
+countryList.120.LBR|Liberia LBR|null
+enablePrintPreferencesConfigurationImageUrl.3.ibt||
+sa108_quotedShares_gainFromRTT_MSG017|The amount entered for 'Gain from RTT' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+sa108_quotedShares_gainFromRTT_MSG006|The amount entered for 'Gain from RTT' cannot be less than 0 (zero). Please amend.|null
+payrollGivingAmount|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Amount of Payroll Giving</title><meta name="help-icon-alt" content="Help About: Amount of Payroll Giving" /></head><body><p>If you have charity donations taken from your pay before your pay is taxed, those payments are made through the Payroll Giving scheme. Put the amount of charity donations taken from your pay here. You can find the amount you paid each month from your payslips. If you need to work out your adjusted total income, add these payments to your pay figure on your P60.</p></body></html>|null
+statusInProgress|In progress|null
+sa108_quotedShares_gainFromRTT_MSG021|The amount entered for 'Gain from RTT' must be less than &pound;10,000,000,000. Please amend.|null
+ResidentialPropertyCapitalGainsPageDescription|residential property|null
+countryList.209.CHE|Switzerland CHE|null
+countryList||
+countryList.85.GRD|Grenada GRD|null
+countryList.132.MLT|Malta MLT|null
+sa103s_busIncome_otherIncome_MSG006|The amount entered for 'Any other business income not included above...' must be greater than 0 (zero) or blank. Please amend.|null
+sa108_ftcrTypeOfGain_MSG090|Please complete 'Type of gain'.|null
+countryList.79.GEO|Georgia GEO|null
+sa100_tailor_partnershipOneName_MSG316|This field cannot be blank. Please amend.|null
+countryList.155.NGA|Nigeria NGA|null
+countryList.180.LCA|St Lucia LCA|null
+countryList.173.QAT|Qatar QAT|null
+crossSectionIncomplete|A cross section means this section is incomplete|null
+countryList.187.SAU|Saudi Arabia SAU|null
+propertyAssetsGainFromRTTHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Submitting a Real Time Transaction Tax return(s) for the disposal of an asset of this type</title><meta name="help-icon-alt" content="Help about: Submitting a Real Time Transaction Tax return(s) for the disposal of an asset of this type" /></head><body><p>If you have disposed of other property and assets and included this on a Real Time Transaction Return put the overall gain or loss in the box. If the result for the year was a loss, put a minus sign in the shaded box in front of your figure. Also enter the reference numbers for any returns made in any other information.</p></body></html>|null
+sa108_lossesInTheYear_NumberOfDisposals_MSG161|There is an entry in 'Losses in the year'. Please complete 'Number of disposals'.|null
+sa108_quotedShares_nrcgtClaims_MSG006|The amount entered for 'Gain or loss relating to NRCGT' cannot be less than 0 (zero). Please amend.|null
+countryList.161.OMN|Oman OMN|null
+sa108_quotedShares_nrcgtClaims_MSG017|The amount entered for 'Claims relation to NRCGT' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+sa108_quotedShares_nrcgtClaims_MSG021|The amount entered for 'Claims relation to NRCGT' must be less than &pound;10,000,000,000. Please amend.|null
+countryList.227.ARE|United Arab Emirates ARE|null
+countryList.181.SPM|St Pierre and Miquelon SPM|null
+newItemCategoryList||
+CalculationSummaryChangePageDescription|Change summary|null
+countryList.111.KEN|Kenya KEN|null
+sa108_disposalProceeds_NumberOfDisposal_MSG161|There is an entry in 'Disposal proceeds'. Please complete 'Number of disposals'.|null
+countryList.210.SYR|Syria SYR|null
+CeasedTradingDate|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>If your business has ceased </title><meta name="help-icon-alt" content="Help about: If your business has ceased" /></head><body><p>If you've stopped working for yourself you are taxable on any profits for the period beginning on the day after your last accounting period ended and ending on the date your business ceased. You may be entitled to a tax relief called 'overlap relief' depending on the length of time you have worked for yourself</p></body></html>|null
+SEISAndEISLossRelief|Amount in 'Losses used against income' relating to Share Loss Relief in 2016-17 to which Enterprise Investment Scheme/Seed Enterprise Investment Scheme relief is attributable|null
+countryList.105.ITA|Italy ITA|null
+countryList.30.BRN|British Virgin Islands VGB|null
+countryList.150.NLD|Netherlands NLD|null
+countryList.201.SSD|South Sudan SSD|null
+countryList.119.LSO|Lesotho LSO|null
+confirmUntaxedUKInterest|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>'Confirm' will delete this worksheet.</p></body></html>|null
+cashBasisAccountingShort|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Cash Basis Accounting Short</title><meta name="help-icon-alt" content="Help about: Cash Basis Accounting Short" /></head><body><p><strong>Overview</strong></p><p>You can use cash basis for 2016 to 2017 if you:</p><ul><li>run a small business e.g. sole traders and partnerships</li><li>have an income of &#163;81,000 or less a year (this is the threshold when you have to register for VAT)</li></ul><p>You can start using cash basis from 6 April 2014. But you can also decide you don't want to use cash basis as it may not suit your business.</p><p><strong>Why use cash basis</strong></p><p>If you run a small business, cash basis accounting may suit you better than <a class="new-window" href="https://www.gov.uk/self-employed-records">traditional accounting.</a></p><p>This is because you only need to declare money when it comes in and out of your business. At the end of the tax year, you won't have to pay Income Tax on money you didn't receive in your accounting period.</p><p><strong>When cash basis might not suit your business</strong></p><p>Cash basis probably won't suit you if you:</p><ul><li>want to claim interest or bank charges of <a class="new-window" href="https://www.gov.uk/expenses-if-youre-self-employed/legal-financial">more than &#163;500</a> as an expense</li><li>run a business that's more complex eg, you have high levels of stock</li><li>need to get finance for your business - a bank could ask to see accounts drawn up using traditional accounting to see what you owe and are due before agreeing a loan</li><li>have losses that you want to offset against other taxable income (&#8216;sideways loss relief&#8217;)</li></ul><p><strong>Income and expenses under cash basis</strong></p><ul><li>you only count the money you've actually received and expenses you've actually paid in a tax year</li><li>money you're owed isn't counted until you receive it</li><li>payments count - cash, by card, cheque, payment in kind or any other method</li></ul><p>Examples of allowable business expenses when you use the cash basis are:</p><ul><li><a class="new-window" href="https://www.gov.uk/expenses-if-youre-self-employed/office-property">office costs</a> eg, stationery or phone bills</li><li><a class="new-window" href="https://www.gov.uk/expenses-if-youre-self-employed/travel">travel costs</a> eg, fuel, parking, train or bus fares</li><li><a class="new-window" href="https://www.gov.uk/expenses-if-youre-self-employed/clothing">clothing expenses</a> eg, uniforms</li><li><a class="new-window" href="https://www.gov.uk/expenses-if-youre-self-employed/staff">staff costs</a> eg, salaries or subcontractor costs</li><li><a class="new-window" href="https://www.gov.uk/expenses-if-youre-self-employed/reselling-goods">things you buy to sell on</a> eg, stock or raw materials</li><li><a class="new-window" href="https://www.gov.uk/expenses-if-youre-self-employed/legal-financial">financial costs</a> eg, insurance or bank charges</li><li><a class="new-window" href="https://www.gov.uk/expenses-if-youre-self-employed/office-property">costs of your business premises</a> eg, heating, lighting, business rates</li><li><a class="new-window" href="https://www.gov.uk/expenses-if-youre-self-employed/marketing-entertainment-subscriptions">advertising or marketing</a> eg, website costs</li></ul><p><strong>Capital allowances</strong><br />If you use <a class="new-window" href="https://www.gov.uk/simpler-income-tax-cash-basis/income-and-expenses-under-cash-basis">cash basis accounting</a> and <a class="new-window" href="https://www.gov.uk/expenses-if-youre-self-employed/travel">buy a car</a> for your business, you can claim this as a capital allowance. However, all other items you buy and keep for your business should be claimed as allowable expenses in the normal way.</p><p><strong>Other considerations</strong></p><ul><li>businesses using traditional accounting (accruals basis) might have to make some adjustments if they switch to cash basis</li><li>you can choose how to record monies paid or received (eg the date the money enters or leaves your account or the date a cheque is written) but you must use the same method each tax year</li><li>cash basis might suit smaller businesses because, at the end of the tax year, you won't have to pay Income Tax on money you didn't receive in your accounting period</li><li>a loss incurred by a business adopting 'Cash basis' can only carry forward any losses. No sideways or earlier year's tax relief can be claimed</li></ul><p>If you're using cash basis and your business grows during the tax year you can stay in the scheme up to an income of &#163;162,000. Above that you'll need to use traditional accounting for your Income Tax return for the next tax year, unless your income drops back below the VAT threshold in place at the end of that tax year.</p><p><strong>Losses</strong></p><ul><li>any losses you make can't be set off against your other income</li><li>terminal loss must be set against any profits (after deducting losses brought forward) from the same business taxed in 2016 to 2017</li><li>If any terminal loss remains it must be set against the profits of the same business taxed in the 3 prior years. Start with the latest year</li></ul><p><strong>Who can't use the scheme</strong></p><p>Businesses that can't use the scheme are:</p><ul><li>Lloyd's underwriters</li><li>farming businesses with a current herd basis election</li><li>farming and creative businesses with a section 221 ITTOIA profit averaging election</li><li>businesses that have claimed business premises renovation allowance</li><li>businesses that carry on a mineral extraction trade</li><li>businesses that have claimed research and development allowance</li><li>limited companies</li><li>limited liability partnerships</li><li>dealers in securities</li><li>relief for mineral royalties</li><li>lease premiums</li><li>ministers of religion</li><li>pool betting duty</li><li>intermediaries treated as making employment payments</li><li>managed service companies</li><li>waste disposal</li><li>cemeteries and crematoria</li></ul><p>If you can't use cash basis, you'll need to use traditional accounting to work out your taxable profits.</p></body></html>|null
+countryList.91.GNB|Guinea-Bissau GNB|null
+diplayingXToXOfXx|<p>Displaying $RECORDS_FROM to $RECORDS_TO of $TOTAL records</p>|null
+countryList.218.TON|Tonga TON|null
+sa108_unquotedShares_disposalProceeds_MSG179|The amount entered for 'Disposal proceeds' must be greater than -&pound;10,000,000,000. Please amend.|null
+countryList.233.VUT|Vanuatu VUT|null
+pafAddressTruncated|				<![CDATA[					<div class="message information">						<p>The address found has been shortened as shown below.  If you want to change these details, please click the 'Change address' button.  You will then need to click the 'Enter manually' button to enter an abbreviated address.  A maximum of 99 characters are available across the four lines.  There is a separate field for the postcode.</p>					</div>					<div><input type="hidden" name="enableManualEntry" value="true"><input type="hidden" name="_cmdButtonMenuEnterAddressManually"></div>				]]>			|null
+enrolInstruction|Plus either of the next two pieces of information:|null
+countryList.47.COL|Colombia COL|null
+showUnlistedSharesAndSecurities|Unlisted Shares|null
+sa108_summary_lossesToCarryForward_MSG007|The amount entered for 'Losses available to be carried forward' must be greater than 0 (zero) or blank. Please amend.|null
+countryList.149.NPL|Nepal NPL|null
+HelpHasChangedAddress|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>If you have amended your address details</title><meta name="help-icon-alt" content="Help about: If you have amended your address details" /></head><body><p>Place a tick in the box if you have amended the address details displayed on the 'Tell us about you' page.</p><p>We need to know about all of your address changes. If you have moved more than once and have not told us, you need to go to tell us about all of your address changes in the correct order, before submitting this form.</p><p><strong>It&#8217;s important to keep your address details up to date to make sure you&#8217;re paying the right rate of income tax. The Scottish rate of income tax applies from April 2016. You need to pay the Scottish rate of income tax if you lived in Scotland for most of the tax year.</strong></p></body></html>|null
+sa104f_class4Nic_isDeferredClass4Nic_MSG090|Please complete 'Have you been given a 2016-17 Class 4 NIC deferment certificate?'.|null
+CapitalGainsSelectSectionEnterPageDescription|Select section|null
+maritalStatusList||
+countryList.175.ROU|Romania ROU|null
+sa100_tailor_partnershipThreeName_MSG316|This field cannot be blank. Please amend.|null
+countryList.96.HUN|Hungary HUN|null
+countryList.125.MAC|Macao (SAR) MAC|null
+countryList.204.SDN|Sudan SDN|null
+countryList.144.MSR|Montserrat MSR|null
+HelpAnnualInvestmentAmount|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Annual Investment Allowance</title><meta name="help-icon-alt" content="Help about: Annual Investment Allowance" /></head><body><p>You can claim a capital allowance called an Annual Investment Allowance (AIA) if you bought equipment (but not cars) during the year up to an annual amount of &#163;100,000. Add the cost of all the equipment together and, if the total cost is &#163;100,000 or less, you can claim 100% of that whole amount as your AIA. If the total is more than &#163;100,000, then you can claim up to &#163;100,000 of the total as your AIA. Please enter the total amount of AIA claimed in this field.</p><p>Where you use an item of equipment for both business and private purposes, the AIA claimed has to be reduced by the private use proportion.</p></body></html>|null
+CapitalGainsSelectSectionChangePageDescription|Select section|null
+countryList.126.MKD|Macedonia (FYR) MKD|null
+countryList.164.PAN|Panama PAN|null
+worksheetListedSharesLossesInTheYear|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Losses in the year</title><meta name="help-icon-alt" content="Help about: Losses in the year" /></head><body><p>This is the total of any losses made on the disposals. This figure will be after taking into account the effect of any relief, claims or elections.</p></body></html>|null
+sa108_quotedShares_disposalProceeds_MSG331|The amount entered in 'Disposal proceeds' must be greater than or equal to &pound;1. Please amend.|null
+countryList.238.YEM|Yemen YEM|null
+listedSharesGainFromRTTHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Submitting a Real Time Transaction Tax return(s) for the disposal of listed shares or securities</title><meta name="help-icon-alt" content="Help about: Submitting a Real Time Transaction Tax return(s) for the disposal of listed shares or securities" /></head><body><p>If you have disposed of listed shares and securities and included this on a Real Time Transaction Return put the overall gain or loss in the box. If the result for the year was a loss, put a minus sign in the shaded box in front of your figure. Also enter the reference numbers for any returns made in any other information.</p></body></html>|null
+chooseToPayClass2Voluntarilyhtml|If your total profits for 2016-17 are less than &pound;5,965 and you choose to pay Class 2 NICS voluntarily, put 'X' in the box:|null
+sa108_otherGains_disposalProceeds_MSG331|The amount entered in 'Disposal proceeds' must be greater than or equal to &pound;1. Please amend.|null
+taperTypeList||
+countryList.62.DOM|Dominican Republic DOM|null
+expensesList||
+countryList.241.ZZZ|None of the above ZZZ |null
+countryList.170.POL|Poland POL|null
+booleanList||
+countryList.34.MMR|Burma (also known as Myanmar) MMR|null
+assetTypeList.4.RESIDENTIAL_PROPERTY|Residential property and carried interest|null
+sa100_tailor_partnershipTwoName_MSG316|This field cannot be blank. Please amend.|null
+windowUpdatedDetails|HMRC: Update details|null
+statusSubmitted|Submitted|null
+countryList.56.CYP|Cyprus CYP|null
+countryList.82.GIB|Gibraltar GIB|null
+deleteLimitOnIncomeTaxLossesInfo|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>Are you sure you want to <strong>delete</strong> Limit on Income Tax relief?</p></body></html>|null
+caGainsInTheYear|Gains in the year, before losses:|null
+countryList.135.MRT|Mauritania MRT|null
+canNotDeleteMarriageAllowanceInfo|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>You cannot delete the Marriage allowance section as you have previously submitted Marriage allowance information. Please ask your spouse/partner to contact HMRC to reject Marriage allowance.</p></body></html>|null
+attributedGainsHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Attributed gains where personal losses cannot be set off</title><meta name="help-icon-alt" content="Help about: Attributed gains where personal losses cannot be set off" /></head><body><p>Only fill in this box if you&#8217;ve received any gains, capital payments or benefits, as a beneficiary from a non-UK resident trust.</p></body></html>|null
+countryList.179.KNA|St Kitts and Nevis KNA|null
+countryList.190.SYC|Seychelles SYC|null
+listedSharesLossesInTheYearHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Losses in the year</title><meta name="help-icon-alt" content="Help about: Losses in the year" /></head><body><p>Enter the total of any losses made on the disposals. This figure will be after taking into account the effect of any relief, claims or elections.</p></body></html>|null
+directorDetails|Director details|null
+LossesUsedAgainstPreviousReturnYearIncome|Losses used against income  - amount claimed against 2015-16 income|null
+sa108_summary_GainsFrom23June2010Qualifying_MSG371|You have completed 'Gains qualifying for Entrepreneurs&#8217; Relief - gains on or after 23 June 2010' therefore you must complete 'Total gains'. Please amend.|null
+sa108_summary_GainsFrom23June2010Qualifying_MSG372|The amount for 'Gains qualifying for Entrepreneurs&#8217; Relief - Gains on or after 23 June 2010' must not exceeds 'Total gains'. Please amend.|null
+sa108_quotedShares_RTTAlreadyCharged_MSG021|The amount entered for 'RTT already charged' must be less than &pound;10,000,000,000. Please amend.|null
+sa108_quotedShares_RTTAlreadyCharged_MSG017|The amount entered for 'RTT already charged' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+ResidentialPropertyCapitalGainsEnterPageDescription|Enter residential property|null
+propertyAssetsGainRTT|If, during 2016-17, you submitted a Real Time Transaction Tax return(s) for the disposal of an asset of this type, enter the overall gain or loss - include the individual amounts of 'Gains in year' and 'Losses in the year'|null
+sa105_profitLoss_zeroEmissionGoodsVehicleAllowance_MSG017|The amount entered for 'Zero-emission goods vehicle allowance' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+countryList.78.GAM|Gambia GMB|null
+countryList.226.UKR|Ukraine UKR|null
+sa105_profitLoss_zeroEmissionGoodsVehicleAllowance_MSG021|The amount entered for 'Zero-emission goods vehicle allowance' must be less than &pound;10,000,000,000. Please amend.|null
+countryList.87.GUM|Guam GUM|null
+incomeHigherThanPartnersList||
+countryList.116.LAO|Laos LAO|null
+sa105_profitLoss_zeroEmissionGoodsVehicleAllowance_MSG007|The amount entered for 'Zero-emission goods vehicle allowance' must be greater than 0 (zero) or blank. Please amend.|null
+sa100_aboutYou_studentLoanPlanTypePrepopValueChanged|You have changed your student loan plan type and it is now different to what student loan company holds for you. To help you decide if this is correct, review the letter sent to you by student loan company. Please read help.|null
+countryList.191.SLE|Sierra Leone SLE|null
+incomeTaxAndClass4NICDue|Income Tax and Class 4 National Insurance contributions due|null
+sa108_quotedShares_totalGains_MSG017|The amount entered for 'Gains in the year, before losses' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+businessTransfer|Business transfer|null
+countryList.217.TKL|Tokelau TKL|null
+sa108_summary_lossesBroughtForwardAndUsed_MSG007|The amount entered for 'Losses brought forward and used in the year' must be greater than 0 (zero) or blank. Please amend.|null
+countryList.37.CMR|Cameroon CMR|null
+countryList.138.MEX|Mexico MEX|null
+sa108_summary_lossesBroughtForwardAndUsed_MSG017|The amount entered for 'Losses brought forward and used in the year' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+sa108_summary_lossesBroughtForwardAndUsed_MSG021|The amount entered for 'Losses brought forward and used in the year' must be less than &pound;10,000,000,000. Please amend.|null
+sa108_quotedShares_gainsExceeding_MSG006|The amount entered for 'Gain exceeding' cannot be less than 0 (zero). Please amend.|null
+incomeTaxPayerStatusList.1.U|UK|null
+buttonLogOutTodigital|Save and return to GOV.UK|null
+updateOrCancel|Please select 'Update' to add your entries to the Summary table.|null
+sa108_quotedShares_gainsExceeding_MSG021|The amount entered for 'Gain exceeding' must be less than &pound;10,000,000,000. Please amend.|null
+numBusinessesList||
+sa100_finishReturn_accountNumber2_MSG090|Please complete 'Account number'.|null
+sa108_quotedShares_gainsExceeding_MSG017|The amount entered for 'Gain exceeding' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+unlistedSharesRTTAlreadyChargedHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Losses in the year </title><meta name="help-icon-alt" content="Help about: Losses in the year " /></head><body><p>This is the total of any losses made on the disposals. This figure will be after taking into account the effect of any relief, claims or elections.</p></body></html>|null
+valuesBroughtForwardList.2.CAR_COSTING_12000_OR_LESS|Car costing &pound;12000 or less|null
+disposalProceedsHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Disposal Proceeds</title><meta name="help-icon-alt" content="Help about: Disposal Proceeds" /></head><body><p>Enter the total disposal proceeds for other property and other assets and gains (before taking into account any reliefs or claims).</p></body></html>|null
+countryList.176.RUS|Russian Federation RUS|null
+countryList.102.IRL|Ireland (Republic of) IRL|null
+digitalHeaderPopup|				<![CDATA[					<div id="header-digital">						$ACCESS_KEYS						<img src="/images/digitalLogo.png" alt="HM Revenue &amp; Customs" height="0" width="256" class="screen"><img src="/images/digitalLogo-print.png" alt="" height="29" width="256" class="print">						<ul class="inline-navigation">							$LANGUAGE_MENU_ITEMS							<!-- [JavaScript]								<li><a href="javascript:print()">Print</a>|null
+january|January|null
+countryList.139.FSM|Micronesia FSM|null
+countryList.46.CCK|Cocos (Keeling) Islands CCK|null
+unableToTransferIncomeOptions||
+september|September|null
+sa100_aboutYou_taxPayerStatusPrepopValueChanged|You have changed your taxpayer status and it is now different to what HMRC holds for you.|null
+sa108_quotedShares_allowableCosts_MSG006|The amount entered for 'Allowable costs (including purchase price)' must be greater than 0 (zero) or blank. Please amend.|null
+july|July|null
+sa108_unquotedShares_allowableCosts_MSG006|The amount entered for 'Allowable costs (including purchase price)' must be greater than 0 (zero) or blank. Please amend.|null
+countryList.232.UZB|Uzbekistan UZB|null
+sa108_quotedShares_disposalProceeds_MSG179|The amount entered for 'Disposal proceeds' must be greater than -&pound;10,000,000,000. Please amend.|null
+sa108_residentialProperty_nrcgtClaims_NumberOfDisposals_MSG161|There is an entry in 'Gain or loss relating to NRCGT'. Please complete 'Number of disposals'.|null
+june|June|null
+countryList.107.JPN|Japan JPN|null
+countryList.147.NAM|Namibia NAM|null
+MSG7073|ERROR: The value you have entered is invalid. Please select an item from the list.|null
+pageUpdatedDetails|Update details|null
+countryList.158.PRK|North Korea PRK|null
+countryList.36.KMH|Cambodia KMH|null
+countryList.129.MYS|Malaysia MYS|null
+updatedDetails|Updated details|null
+isMakingClaimOtherPropertyAssetsAndGains|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Are you making any claims or elections?</title><meta name="help-icon-alt" content="Help about: Are you making any claims or elections?" /></head><body><p>Choose the relevant code from the drop-down box. If you're making more than one claim enter 'MUL' or, if the claim or election is not listed, enter 'OTH'.</p><p>PRR - Private Residence Relief where Lettings Relief does not apply<br />LET - Private Residence Relief where Lettings Relief applies<br />GHO - Gift Hold-Over Relief<br />ROR - Rollover Relief<br />ESH - Employee Shares<br />ERL - Entrepreneurs&#8217; Relief<br />NVC - Negligible Value Claims<br />SIR - Social Investment Tax Relief<br />OTH - Other claims<br />MUL - If more than 1 code applies</p><p>You must make a claim or election by clearly stating it in your attached computation. Some claims have to be made on a separate claim form which you complete and attach to your Tax Return along with your computation.</p><p>You should state the amount of any relief or allowance you're claiming and if you're claiming that any listed shares or securities have become of negligible value you should include as disposal proceeds for the shares the value specified in your claim.</p><p>Private Residence Relief (PRR) where a dwelling house which can include:</p><ul><li>a house</li><li>a flat</li><li>a houseboat or fixed caravan</li></ul><p>Which is your:</p><ul><li>only or main residence throughout your period of ownership</li><li>you have not been absent, other than an allowable period of absence or because you have been living in &#8216;job-related accommodation&#8217; during your &#8216;period of ownership&#8217;</li><li>the garden or grounds including the buildings on them are not greater than the permitted area (5,000 square metres)</li></ul><p>and no part of your home has been used exclusively for business purposes during your period of ownership.</p><p>Lettings Relief (LET) cannot be given if the dwelling house has been your only or main residence at some time in your period of ownership and has been let as residential accommodation.</p></body></html>|null
+sa106_property_zeroEmissionGoodsVehicleAllowance_MSG006|The amount entered for 'Zero-emission goods vehicle allowance' must be greater than 0 (zero) or blank. Please amend.|null
+sa106_property_zeroEmissionGoodsVehicleAllowance_MSG016|The amount entered for 'Zero-emission goods vehicle allowance' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+sa106_property_zeroEmissionGoodsVehicleAllowance_MSG021|The amount entered for 'Zero-emission goods vehicle allowance' must be less than &pound;10,000,000,000. Please amend.|null
+countryList.122.LIE|Liechtenstein LIE|null
+viewHtml.sa108.capitalGainsSummary.propertyAndCarriedInterest|Residential property and carried interest|null
+sa108_listedSharesSummary_allowableCosts_MSG006|The amount entered for 'Allowable costs (including purchase price)' must be greater than 0 (zero) or blank. Please amend.|null
+sa108_otherGains_lossesInTheYear_MSG017|The amount entered for 'Losses in the year' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+countryList.185.SMR|San Marino SMR|null
+infoOnValuesToCarryForward|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>You will need the following values to carry forward into your 2009-10 return.<br />      Please print out this page and keep as part of your records, unless you overwrite the final figures from your own calculations.</p></body></html>|null
+monthList||
+countryList.93.HTI|Haiti HTI|null
+countryList.130.MDV|Maldives MDV|null
+countryList.171.PRT|Portugal PRT|null
+totalTaxableIncome|Total income|null
+countryList.61.DMA|Dominica DMA|null
+sa101_incomeTaxLosses_sourceOfLoss_MSG376|As you have completed 'Relief now for 2016-17 income, or certain capital losses' you must also specify the source of loss in the box provided below. Please amend.|null
+unlistedSharesLossesInTheYearHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Losses in the year</title><meta name="help-icon-alt" content="Help about: Losses in the year" /></head><body><p>This is the total of any losses made on the disposals. This figure will be after taking into account the effect of any relief, claims or elections.</p></body></html>|null
+countryList.66.GNQ|Equatorial Guinea GNQ|null
+countryList.55.CUV|Curaçao CUW|null
+sa108_quotedShares_taxGainAlreadyCharged_MSG021|The amount entered for 'Tax on gains already charged' must be less than &pound;10,000,000,000. Please amend.|null
+sa108_quotedShares_taxGainAlreadyCharged_MSG006|The amount entered for 'NRCGT tax already charged' cannot be less than 0 (zero). Please amend.|null
+countryList.69.ETH|Ethiopia ETH|null
+listedSharesRTTAlreadyChargedHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Tax on gains already charged</title><meta name="help-icon-alt" content="Help about: Tax on gains already charged" /></head><body><p>Please enter the total amount of tax you paid on the Real Time Transaction Return(s) shown above.</p></body></html>|null
+countryList.73.FIN|Finland FIN|null
+isMakingClaimListedSharesAndSecurities|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Are you making any claims or elections?</title><meta name="help-icon-alt" content="Help about: Are you making any claims or elections?" /></head><body><p>Choose the relevant code from the drop-down box. If you're making more than one claim enter 'MUL' or, if the claim or election is not listed, enter 'OTH'.</p><p>PRR - Private Residence Relief where Lettings Relief does not apply<br />GHO - Gift Hold-Over Relief<br />NVC - Negligible Value Claims<br />ROR - Rollover Relief<br />MUL - If more than 1 code applies</p><p>You must make a claim or election by clearly stating it in your attached computation. Some claims have to be made on a separate claim form which you complete and attach to your Tax Return along with your computation.</p><p>You should state the amount of any relief or allowance you're claiming and if you're claiming that any listed shares or securities have become of negligible value you should include as disposal proceeds for the shares the value specified in your claim.</p><p>Private Residence Relief (PRR) where a dwelling house which can include:</p><ul><br />OTH - Other claims<br /><li>a house</li><li>a flat</li><li>a houseboat or fixed caravan</li></ul><p>Which is your:</p><ul><li>only or main residence throughout your period of ownership</li><li>you have not been absent, other than an allowable period of absence or because you have been living in &#8216;job-related accommodation&#8217; during your &#8216;period of ownership&#8217;</li><li>the garden or grounds including the buildings on them are not greater than the permitted area (5,000 square metres)</li></ul><p>and no part of your home has been used exclusively for business purposes during your period of ownership.</p><p>Lettings Relief (LET) cannot be given if the dwelling house has been your only or main residence at some time in your period of ownership and has been let as residential accommodation.</p></body></html>|null
+hmrcHeaderPopup|				<![CDATA[					<div id="header-digital">						$ACCESS_KEYS						<img src="/images/digitalLogo.png" alt="HM Revenue &amp; Customs" height="0" width="256" class="screen"><img src="/images/digitalLogo-print.png" alt="" height="29" width="256" class="print">						<ul class="inline-navigation">							$LANGUAGE_MENU_ITEMS							<!-- [JavaScript]								<li><a href="javascript:print()">Print</a>|null
+sa108_quotedShares_RTTAlreadyCharged_MSG006|The amount entered for 'RTT already charged' cannot be less than 0 (zero). Please amend.|null
+findYourTaxOffice|Find your Tax Office|null
+countryList.153.NIC|Nicaragua NIC|null
+UnlistedSharesNumberOfDisposal|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Number of disposals</title><meta name="help-icon-alt" content="Help about: Number of disposals" /></head><body><p>This is the number of disposals of that you made from 6 April 2016 to 5 April 2017 for Unlisted shares and securities. Ignore disposals you do not make in your own capacity, for example, disposals you make as a trustee.</p></body></html>|null
+numEmploymentsList||
+countryList.167.PER|Peru PER|null
+statusPending|Pending|null
+countryList.159.MNP|Northern Mariana Islands MNP|null
+isEasyToAccessList||
+sa108_quotedShares_gainsInvested_MSG021|The amount in box 'Gains invested under seed EIS' exceeds the maximum relief allowable of £100,000. Please amend.|null
+sa100_tailor_partnershipFiveName_MSG316|This field cannot be blank. Please amend.|null
+countryList.50.COK|Cook Islands COK|null
+countryList.229.USA|United States of America USA|null
+sa108_quotedShares_gainsInvested_MSG017|The amount entered for 'Gains invested under seed EIS' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+sa108_quotedShares_gainsInvested_MSG006|The amount entered for 'Gains invested under seed EIS' cannot be less than 0 (zero). Please amend.|null
+descendingOrder|Descending order|null
+unlistedSharesGainsExceedingHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Gains exceeding the lifetime limit for Employee Shareholder status shares</title><meta name="help-icon-alt" content="Help about: Gains exceeding the lifetime limit for Employee Shareholder status shares" /></head><body><p>Enter the amount of gains exceeding the lifetime limit for Employee Shareholder status</p></body></html>|null
+countryList.113.KSV|Kosovo KSV|null
+capitalGainsAttributedGains|Attributed gains where personal losses cannot be set off|null
+countryList.41.CAF|Central African Republic CAF|null
+worksheetOtherPropertyAllowableCosts|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Allowable costs (including purchase price)</title><meta name="help-icon-alt" content="Help about: Allowable costs (including purchase price)" /></head><body><p>This is the total allowable costs for other property, assets and gains. These costs will usually include the purchase price, any incidental costs of purchase and sale and improvement costs</p></body></html>|null
+countryList.221.TUR|Turkey TUR|null
+incomeAtTenPercent|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>Total dividend income:</p></body></html>|null
+countryList.212.TJK|Tajikistan TJK|null
+valuesBroughtForwardList.3.CAR_COSTING_MORE_THAN_12000|Car costing more than &pound;12000|null
+successReturnTodigital|<p>Please click 'Next' to continue using this service. Alternatively you can <a href="/home?lnsEndpointUri=">return to GOV.UK</a>.</p>|null
+Allowance|I wish to claim Business Premises Renovation Allowance|null
+sa108_unlistedShares_lossReliefInReturnYearMustNotExceedLossesUsedAgainstReturnYearsIncome|'SEIS and EIS loss relief in return year' is valid only if this does not exceed 'Losses used against return year income'.|null
+countryList.196.SVN|Slovenia SVN|null
+countryList.75.GUF|French Guiana GUF|null
+yourInformationForwardedToDepartment.digital|<p>Your information has been forwarded on to HM Revenue &amp; Customs.</p><p>Click 'Next' to return to GOV.UK.</p>|null
+enablePrintPreferencesConfigurationImageUrl.2.online-dev|https://www-preview.tax.service.gov.uk/sa/print-preferences/assets/images/tp.gif?lang=en|null
+sa108_selectSections_sectionEmpty|At least one section should be selected. Please select.|null
+countryList.49.COG|Congo COG|null
+addGainsList||
+sa105_lettingsLosses_lossForYear_MSG007|The amount entered for 'Furnished holiday lettings loss for the year' cannot be less than 0 (zero). Please amend.|null
+gainsBR|Other gains basic rate|null
+viewHtml.sa108.capitalGainsSummary.lossesAndAdjustments|Losses and adjustments|null
+nomineeList.2.NOMINEE|Nominee|null
+countryList.206.SJM|Svalbard and Jan Mayen Islands SJM|null
+countryList.235.VEN|Venezuela VEN|null
+sa108_gainsInTheYear_NumberOfDisposals_MSG161|There is an entry in 'Gains in the year'. Please complete 'Number of disposals'.|null
+sa100_finishReturn_sortCode2_MSG090|Please complete 'Branch sort code'.|null
+countryList.58.COD|Democratic Republic of the Congo(formerly Zaire) COD|null
+viewHtml.sa108.capitalGainsSummary.otherPropertyAssetsAndGains|Other property, assets and gains|null
+sa110_taxAdjustments_increaseAdjustment_MSG346|You have completed 'Increase in tax due because of adjustments to an earlier year' therefore you must complete 'Amount of post-cessation or other business receipts' or  'Adjustment for change of accounting practice' or 'Averaging adjustment...' or 'Averaging adjustment...' or 'Averaging adjustment...'. Please amend.|null
+DeletePersonalPensions|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>Are you sure you want to <strong>delete</strong> &lt;section e.g. employer 1&gt; pages?</p></body></html>|null
+sa108_summary_totalGains_MSG007|The amount entered for 'Total gains' cannot be less than 0 (zero). Please amend.|null
+countryList.64.EGY|Egypt EGY|null
+gainsInTheYearHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Gains in the year</title><meta name="help-icon-alt" content="Help about: Gains in the year" /></head><body><p>Enter the total of any gains made on the disposal of other property and other assets and gains. This figure will be the gain minus any relief, claims or elections. You&#8217;ll also need to enter some gains from earlier years.<br />For example, if:</p><ul><li>you claimed Rollover Relief on the purchase of a wasting asset</li><li>you claimed Gift Hold-Over Relief on a transfer of an asset to you and you are now non-resident</li><li>a gain on qualifying corporate bonds was deferred due to a share re-organisation</li><li>you deferred a gain on a subscription for Enterprise Investment Scheme or Venture Capital Trust shares</li><li>a gain accrued when you were temporarily not resident in the UK</li><li>a previously unremittable gain was remitted in the year</li><li>a foreign chargeable gain from an earlier year was remitted to the UK in the 2016 to 2017 tax year</li></ul><p>Only deduct losses if you included them in a claim for Entrepreneurs&#8217; Relief. Don&#8217;t deduct the &#8216;annual exempt amount&#8217;, you will get this automatically.</p></body></html>|null
+countryList.162.PAK|Pakistan PAK|null
+isEasyToUnderstandQuestionList||
+countryList.184.WSM|Samoa WSM|null
+sa108_quotedShares_shareLossReliefPreviousTaxYear_MSG017|The amount entered for 'Share Loss Relief in 15-16' is in an incorrect format. Monetary fields can only contain numbers, a decimal point and a minus (-) sign if the value is negative. Please amend.|null
+sa110_underpaidTax3_outstandingDebt_MSG377|You cannot complete 'Outstanding debt included in your tax code for 2016-17' as you have not selected 'No' to 'If this figure is not correct, select 'No' and you will be given a chance to amend it below'. Please amend.|null
+countryList.98.IND|India IND|null
+sa108_quotedShares_shareLossReliefPreviousTaxYear_MSG021|The amount entered for 'Share Loss Relief in 15-16' must be less than &pound;10,000,000,000. Please amend.|null
+sa108_residentialProperty_taxGainAlreadyCharged_nrcgt_MSG161|There is an entry in 'NRCGT tax already charged'. Please complete 'Gain or loss relating to NRCGT'.|null
+incomeTaxPayerStatusList.2.S|Scottish|null
+countryList.35.BDI|Burundi BDI|null
+infoOnBusinessAndPrivateUsePool|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Templated business text</title></head><body><p>We have added the relevant items into your car costing more than &#163;12,000 with business and private use worksheet.</p></body></html>|null
+sa108_unlistedShares_lossReliefInPreviousReturnYearMustNotExceedLossesUsedAgainstPreviousReturnYearsIncome|'SEIS and EIS loss relief in previous return year' is valid only if this does not exceed 'Losses used against previous return year income'.|null
+countryList.84.GRL|Greenland GRL|null
+newAddressCountryList||
+sa100_finishReturn_hasBankAccount_MSG269|You cannot select 'Yes' for 'I do not have a bank or building society account', as you have provided us with your bank account details. Please amend.|null
+iHaveAccount|&lt;a id="LinkLogin" href="http://www.hmrc.gov.uk/news/index.htm"&gt;I have an account - login&lt;/a&gt;&lt;/li&gt;|null
+worksheetOtherPropertyTotalGains|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Gains in the year</title><meta name="help-icon-alt" content="Help about: Gains in the year" /></head><body><p>This is the total of any gains made on the disposal of other property and other assets and gains. This figure will be the gain minus any relief, claims or elections. You&#8217;ll also need to enter some gains from earlier years.</p><p>Only deduct losses if you included them in a claim for Entrepreneurs&#8217; Relief. Don&#8217;t deduct the &#8216;annual exempt amount&#8217;, you will get this automatically.</p></body></html>|null
+otherGainsAllowableCostsHelp|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Allowable costs (including purchase price)</title><meta name="help-icon-alt" content="Help about: Allowable costs (including purchase price)" /></head><body><p>Enter the total allowable costs for Other property, assets and gains. These costs will usually include the purchase price, any incidental costs of purchase and sale and improvement costs</p></body></html>|null
+countryList.156.NIU|Niue NIU|null
+enablePrintPreferencesConfigurationImageUrl.5.online|https://www.tax.service.gov.uk/sa/print-preferences/assets/images/tp.gif?lang=en|null
+ResidentialPropertyCapitalGainsAmendPageDescription|Amend residential property|null
+ResidentialPropertyCapitalGainsCorrectPageDescription|Correct residential property|null
+formNotFoundText.digital|<p>Sorry, this form is currently unavailable. Please try again later.</p><p>Select 'Next' to return to GOV.UK. If the problem persists you may wish to contact the HM Revenue &amp; Customs <a href="/information/helpdesk" class="new-window">Online Services Helpdesk</a>.</p>|null
+countryList.133.MHL|Marshall Islands MHL|null
+february|February|null
